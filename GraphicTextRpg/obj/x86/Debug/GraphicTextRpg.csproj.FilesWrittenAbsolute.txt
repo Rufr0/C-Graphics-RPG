@@ -1,1 +1,5 @@
 /Users/ANTHONY/Desktop/Github Repositories/Rpg.TextGraphics.Csharp/GraphicTextRpg/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ANTHONY/Desktop/Github Repositories/Rpg.TextGraphics.Csharp/GraphicTextRpg/bin/Debug/GraphicTextRpg.exe.mdb
+/Users/ANTHONY/Desktop/Github Repositories/Rpg.TextGraphics.Csharp/GraphicTextRpg/bin/Debug/GraphicTextRpg.exe
+/Users/ANTHONY/Desktop/Github Repositories/Rpg.TextGraphics.Csharp/GraphicTextRpg/obj/x86/Debug/GraphicTextRpg.exe
+/Users/ANTHONY/Desktop/Github Repositories/Rpg.TextGraphics.Csharp/GraphicTextRpg/obj/x86/Debug/GraphicTextRpg.exe.mdb
